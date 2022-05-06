@@ -1,4 +1,14 @@
+.equis{
+    color:white
+}
 
+.equis:hover{
+    color: black
+}
+
+li{
+    list-style: none;
+}
 /* 
 
     You can write your own styles here...
